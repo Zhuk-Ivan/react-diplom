@@ -31,7 +31,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Zhuk-Ivan.github.io/react-diplom",
+  "homepage": "https://zhuk-ivan.github.io/react-diplom/",
   "eslintConfig": {
     "extends": [
       "react-app",
