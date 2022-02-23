@@ -1,0 +1,31 @@
+.episodes_nav {
+    justify-content: space-between;
+}
+
+.episodes_card {
+    background-color: white;
+    height: 100%;
+    width: 320px;
+    color: black;
+}
+
+.episode_appearance {
+    text-align: center; 
+}
+
+.episode_characters_list{
+    color: black;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    padding-left: 0rem;
+    margin-top: 0rem;
+}
+
+.episodes_card_body {
+    color: black;
+}
+
+.eposide_characters {
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.pagination_section {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+
+.page-item:first-child .page-link, .page-item:last-child .page-link {
+    border-radius: 50%;
+    color: black;
+} 
+
+.page-link {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    color: black;
+  }
