@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-diplom/static/css/main.7547c7e4.css",
+    "main.js": "/react-diplom/static/js/main.89da0917.js",
+    "static/js/787.0bbfe09c.chunk.js": "/react-diplom/static/js/787.0bbfe09c.chunk.js",
+    "static/media/spinner.gif": "/react-diplom/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/react-diplom/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/react-diplom/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/react-diplom/index.html",
+    "main.7547c7e4.css.map": "/react-diplom/static/css/main.7547c7e4.css.map",
+    "main.89da0917.js.map": "/react-diplom/static/js/main.89da0917.js.map",
+    "787.0bbfe09c.chunk.js.map": "/react-diplom/static/js/787.0bbfe09c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7547c7e4.css",
+    "static/js/main.89da0917.js"
+  ]
+}
